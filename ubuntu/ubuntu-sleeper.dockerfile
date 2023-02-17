@@ -2,4 +2,4 @@
 FROM ubuntu
 
 #command 
-CMD sleep 10
+CMD ["sleep", "10"]
